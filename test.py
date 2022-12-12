@@ -29,15 +29,7 @@ while True:
 
     else:
         pass
-    
 
         
-           
         
         
-        
-    
-
-    
-    
-    

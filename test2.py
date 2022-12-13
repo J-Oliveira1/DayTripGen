@@ -39,13 +39,10 @@ def run_whole_day():
     
 run_whole_day()
 
-        
-           
-        
-        
-        
+    
     
 
-    
-    
-    
+
+
+
+
